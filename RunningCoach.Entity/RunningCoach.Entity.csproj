@@ -2,6 +2,8 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+    <AssemblyName>RunningCoach.Entity</AssemblyName>
+    <RootNamespace>RunningCoach.Entity</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
